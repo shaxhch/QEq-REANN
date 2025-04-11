@@ -1,8 +1,0 @@
-#==============param for atomic energy=======================
-  neigh_atoms=25
-  cutoff=8e0
-  nipsin=2
-  atomtype=['F', 'C', 'O', 'H']
-  nwave=7
-  sysatomnum=26
-  totcharge=-1.0
